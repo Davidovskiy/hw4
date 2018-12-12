@@ -1,0 +1,39 @@
+@keyframes blocks {
+    from {
+        background: darkgrey;
+    }
+    to {
+        background: gainsboro;
+    }
+}
+
+@keyframes portfolio {
+    10% {
+        background:#9c2067;
+        color: red;
+    }
+    20% {
+        background:blue;
+        color: #d5b538;
+    }
+    40% {
+        background: #70d4d5;
+        color: yellow;
+    }
+    60% {
+        background:blue;
+        color: yellow;
+    }
+    70% {
+        background: #62d57c;
+        color: #2f9d0b;
+    }
+    90% {
+        background: #ecf12b;
+        color: #72f1c9;
+    }
+    100% {
+        background: #ecf12b;
+        color: #72f1c9;
+    }
+}
